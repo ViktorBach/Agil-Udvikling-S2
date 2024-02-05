@@ -1,7 +1,9 @@
 name: Viktor
 age: 21
-study: IT-Architecture
 isBreathing: true
 hobbies:
  - coding
- - 
+ - video games
+ - running
+ - skiing
+study: IT-Architecture

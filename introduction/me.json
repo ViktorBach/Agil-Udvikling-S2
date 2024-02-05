@@ -3,5 +3,6 @@
     "lastName": "Bach",
     "age": 21,
     "study": "IT-Architecture",
-    "isBreathing": true
+    "isBreathing": true,
+    "hobbies": "[coding, video games, running]"
 }

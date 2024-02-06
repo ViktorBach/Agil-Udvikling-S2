@@ -1,5 +1,5 @@
-*# Header*
-*## subheading*
+# Header
+## subheading
 ```
 this is the code snippet
 ```
